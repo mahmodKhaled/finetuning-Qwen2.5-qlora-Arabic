@@ -1,2 +1,2 @@
-# finetuning-llama2-qlora-Arabic
-Fine-tuning the LLaMA2 model using QLoRA techniques specifically for Arabic language processing.
+# finetuning-Qwen2.5-qlora-Arabic
+Fine-tuning the Qwen2.5 model using QLoRA techniques specifically for Arabic language processing.
